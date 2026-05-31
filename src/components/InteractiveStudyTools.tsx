@@ -21,7 +21,7 @@ export default function InteractiveStudyTools({ scanMode }: ToolsProps) {
       id: 0,
       title: "Awareness-Stage Targeting",
       subtitle: "Unlocking Problem-Unaware Demands",
-      creatorExecution: "Avoided talking only to people already actively looking for English lessons (very small segment). Focused on lifestyle, cultural context, and everyday identity blocks that resonant with a massive, untapped Brazilian audience.",
+      creatorExecution: "Avoided talking only to people already actively looking for English lessons (very small segment). Focused on lifestyle, cultural context, and everyday identity blocks that resonate with a massive, untapped Brazilian audience.",
       dtcTranslation: "Instead of pitching 'Buy this custom ergonomic cat feeder now', we hook viewers using natural, curious behaviors (the 'why does my cat nudge their food?' angle), targeting pet owners before they realize they need a solution.",
       metricLabel: "Creator Growth Window",
       metricValue: "400K in 3 Months"
@@ -319,7 +319,7 @@ export default function InteractiveStudyTools({ scanMode }: ToolsProps) {
         <div className={`p-4 bg-orange-50/50 rounded-lg border border-orange-100/40 transition-opacity duration-300 ${scanMode ? 'ring-2 ring-[#C2410C]/30' : ''}`}>
           <blockquote className="font-mono text-[11px] md:text-xs text-[#C2410C] leading-snug flex gap-2">
             <span className="font-bold shrink-0">STRATEGY TAKEAWAY //</span>
-            <span>"The object of the sale changes. The engine doesn't. Knowing who you target, identifying the broken mechanism, and adjusting the emotional scale transfers instantly from creators to e-commerce."</span>
+            <span>"The object of the sale changes. The engine doesn't. Knowing who you target, identifying the broken mechanism, and adjusting the emotional scale maps directly from creators to e-commerce."</span>
           </blockquote>
         </div>
 

@@ -181,7 +181,7 @@ export default function App() {
             </div>
             
             <h1 className="font-serif text-4xl md:text-6xl font-medium tracking-tight text-[#1C1A17] leading-tight md:leading-[1.12]">
-              Turning Attention Into Demand for a <span className="text-[#C2410C] italic font-semibold">600K+</span> Education Creator
+              Turning Attention Into Demand for a <span className="text-[#C2410C] italic font-semibold">600K+</span> English Education Brand
             </h1>
           </div>
 
@@ -199,7 +199,7 @@ export default function App() {
             </div>
             <div>
               <span className="font-mono text-[10px] text-gray-400 uppercase tracking-widest block">Core Accomplishment</span>
-              <span className="font-sans font-bold text-sm text-gray-800 mt-1 block">+570,000 Organic Gain</span>
+              <span className="font-sans font-bold text-sm text-gray-800 mt-1 block">600K+ Total Audience / +570K Gained</span>
             </div>
             <div>
               <span className="font-mono text-[10px] text-gray-400 uppercase tracking-widest block">Evaluation Objective</span>
@@ -229,7 +229,7 @@ export default function App() {
             </BodyText>
 
             <BodyText>
-              Below is the strategic anatomy of how, and <Highlight>exactly why every muscle I built here transfers to physical-product e-commerce.</Highlight> The mechanism of converting human attention parameters is identical.
+              Below is the strategic anatomy of how, and <Highlight>exactly why every muscle I built here transfers to physical-product e-commerce.</Highlight> The product category changes, but the core mechanics of attention, trust, desire, and action remain highly transferable.
             </BodyText>
           </div>
         </section>
@@ -258,7 +258,7 @@ export default function App() {
               <span className="font-mono text-xs text-[#C2410C] tracking-wide block uppercase font-bold">02 / My Role</span>
               <h4 className="font-bold text-[#1C1A17] text-lg">Strategic Partner</h4>
               <p className="text-xs text-gray-600 leading-relaxed">
-                Focused entirely on positioning, sales architecture, audience psychographic research, content hooks, and brand growth — deliberately bypassing standard aesthetics.
+                Focused entirely on positioning, sales architecture, audience psychographic research, content hooks, and brand growth — deliberately going beyond surface-level aesthetics.
               </p>
             </div>
 
@@ -292,10 +292,10 @@ export default function App() {
               
               <div className="space-y-3 text-sm text-gray-700 leading-relaxed">
                 <BodyText>
-                  The entire niche is camped in the same emotional register: <Highlight bold>fear</Highlight>. You freeze when you try to speak. You&apos;ll be left behind. You&apos;ll embarrass yourself pronouncing things wrong. It&apos;s relentless, high-intensity knife-twisting running on near-100% of competitors.
+                  Most visible competitors are camped in the same emotional register: <Highlight bold>fear</Highlight>. You freeze when you try to speak. You&apos;ll be left behind. You&apos;ll embarrass yourself pronouncing things wrong. It&apos;s relentless, high-intensity knife-twisting running at scale across the market.
                 </BodyText>
                 <BodyText>
-                  Predictably, <Highlight>the audience went numb</Highlight>. The constant fear no longer converts; it just becomes background static.
+                  Predictably, <Highlight>the audience went numb</Highlight>. The constant fear had diminishing returns; it just becomes background static.
                 </BodyText>
                 <BodyText>
                   So the strategic choice wasn&apos;t &quot;how do we shout louder?&quot; It was: <Highlight bold>&quot;how do we break through to an audience that has built a solid wall against this exact kind of message?&quot;</Highlight>
@@ -310,7 +310,7 @@ export default function App() {
               <div className="space-y-2">
                 <div className="flex justify-between items-center text-xs font-mono">
                   <span className="text-red-600 font-bold">Standard Play (Fear)</span>
-                  <span className="text-gray-400">98% frequency</span>
+                  <span className="text-gray-400">Dominant Market Pattern</span>
                 </div>
                 <div className="w-full bg-gray-200 h-2 rounded-full overflow-hidden">
                   <div className="bg-red-500 h-full w-[95%]" />
@@ -328,7 +328,7 @@ export default function App() {
               </div>
 
               <blockquote className="font-serif text-xs leading-relaxed italic text-gray-500 border-t border-gray-150 pt-3">
-                &ldquo;By shifting the emotional register away from panic to aspirational identity, we bypassed competitor advertising systems altogether.&rdquo;
+                &ldquo;By shifting the emotional register away from panic to aspirational identity, we created a different emotional lane instead of competing directly inside the same fear-based messaging pool.&rdquo;
               </blockquote>
             </div>
           </div>
@@ -392,7 +392,7 @@ export default function App() {
                 </div>
                 <h4 className="font-serif text-lg font-semibold text-[#1C1A17]">Authority and attention, proven at scale</h4>
                 <p className="text-xs md:text-sm text-gray-600 leading-relaxed">
-                  The initial 3-second window is the most expensive bottleneck. Growing past 600K organic followers in 10 months, peak of 400K in 3 months, is the direct resulting proof. <Highlight>Organic growth at this speed only occurs with systematic pattern-interrupts and tight hooks</Highlight> working across every piece of media published—identical to performance ad design.
+                  The initial 3-second window is the most expensive bottleneck. Growing past 600K organic followers in 10 months, peak of 400K in 3 months, is the strong directional proof. <Highlight>Organic growth at this speed typically requires systematic pattern-interrupts and tight hooks</Highlight> working across every piece of media published—identical to performance ad design.
                 </p>
               </div>
 
@@ -441,7 +441,7 @@ export default function App() {
 
           <div className="max-w-xl mx-auto relative z-10">
             <p className="font-sans text-xs md:text-sm text-zinc-400 leading-relaxed">
-              My edge isn&apos;t aesthetic creativity — <span className="text-white font-semibold">it&apos;s strategic creativity.</span> I use aspiration and identity to capture desire, but I ground every single hook angle in proven human mechanisms, authority context, and measured analytics. I&apos;m not someone who simply &quot;has warm ideas.&quot; I am someone who <span className="text-[#C2410C] font-bold">architects psychological velocity and converts it into momentum you can measure.</span>
+              My edge isn&apos;t aesthetic creativity — <span className="text-white font-semibold">it&apos;s strategic creativity.</span> I use aspiration and identity to capture desire, but I ground every single hook angle in proven human mechanisms, authority context, and measured analytics. I&apos;m not someone who simply &quot;has warm ideas.&quot; I <span className="text-[#C2410C] font-bold">turn psychological insight into measurable creative momentum — through hooks, positioning, emotional framing, and audience feedback loops.</span>
             </p>
           </div>
         </section>
@@ -599,12 +599,12 @@ export default function App() {
                 <span className="font-mono text-xs uppercase text-gray-400 tracking-wider">02 / MECHANISM INTENSITY</span>
                 <h4 className="font-bold text-[#1C1A17] text-base">Mechanism-based differentiation</h4>
                 <p className="text-xs text-gray-600 leading-relaxed">
-                  The identical logical framework that separated Fluenky from its competitors is what separates a winning video ad from a losing creative on Meta. Identify and name the broken mechanism, position the product as the single cure.
+                  The identical logical framework that separated Fluenky from its competitors is what separates a winning video ad from a losing creative on Meta. Identify and name the broken mechanism, position the product as the most logical solution.
                 </p>
               </div>
 
               <div className="bg-white border border-[#EAE6DF] p-6 rounded-md space-y-2">
-                <span className="font-mono text-xs uppercase text-gray-400 tracking-wider">03 / EMOTIONAL HACKING</span>
+                <span className="font-mono text-xs uppercase text-gray-400 tracking-wider">03 / EMOTIONAL MODULATION</span>
                 <h4 className="font-bold text-[#1C1A17] text-base">Emotional-quadrant modulation</h4>
                 <p className="text-xs text-gray-600 leading-relaxed">
                   Moving a brand out of saturated fear-messaging into clean identity-driven aspiration is exactly how you keep digital e-commerce ads from fatiguing, raising CTR and expanding your addressable market scale.
@@ -612,7 +612,7 @@ export default function App() {
               </div>
 
               <div className="bg-white border border-[#EAE6DF] p-6 rounded-md space-y-2">
-                <span className="font-mono text-xs uppercase text-gray-400 tracking-wider">04 / AUDIENCE SCRYING</span>
+                <span className="font-mono text-xs uppercase text-gray-400 tracking-wider">04 / AUDIENCE INTELLIGENCE</span>
                 <h4 className="font-bold text-[#1C1A17] text-base">Authority and attention at scale</h4>
                 <p className="text-xs text-gray-600 leading-relaxed">
                   The account-wide version of the core pattern-interrupt mechanisms and feedback retention loops that govern high-performing mini-VSLs or native hook TikTok assets.
@@ -654,7 +654,7 @@ export default function App() {
               Hire Gabriel Letácio
             </h3>
             <p className="text-sm text-gray-600 leading-relaxed">
-              Seeking a Creative Strategist who grounds aesthetic output in rigorous psychographic data, mechanism alignment, and proven attention mechanics? Let&apos;s build momentum together.
+              If you&apos;re looking for a creative strategist who can connect audience psychology, positioning, and conversion-focused creative — I&apos;d love to bring that thinking into your team.
             </p>
           </div>
 
